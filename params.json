@@ -1,6 +1,6 @@
 {
   "name": "Coursera singlepagewebappswithangularjs",
   "tagline": "Main repo for angular JS course material",
-  "body": "# Coursera_SinglePageWebAppsWithAngularJS\r\nMain repo for Angular JS Course Material\r\n\r\n* [Module1 Assignment](https://craigleader.github.io/Coursera_SinglePageWebAppsWithAngularJS/module1_Assignment/index.html)\r\n\r\n",
+  "body": "# Coursera_SinglePageWebAppsWithAngularJS\r\nMain repo for Angular JS Course Material\r\n\r\n* [Module1 Assignment](Assignment2/index.html)\r\n(https://craigleader.github.io/Coursera_SinglePageWebAppsWithAngularJS/module1_Assignment/index.html)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
